@@ -1,0 +1,16 @@
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.exe
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.csproj.CopyComplete
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.deps.json
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.runtimeconfig.json
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.dll
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\HelloLog.pdb
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.dll
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.pdb
+C:\Users\thelittlecitizen16\source\repos\HelloLog\HelloLog\obj\Debug\netcoreapp3.1\HelloLog.genruntimeconfig.cache
